@@ -23,3 +23,6 @@ Laden Sie die Datei isbn.pl herunter und starten Sie mit `./isbn.pl`. Geben Sie 
 ## Fehlerhafte ISBN-10 zum Testen
 3-262-60047-7  
 3878313798  
+
+# Lizenz
+Das Programm steht unter der [MIT License](https://spdx.org/licenses/MIT.html).
