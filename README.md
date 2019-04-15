@@ -5,7 +5,7 @@ Repository für einen ISBN 10 to 13 Converter, der im Modul Schnittstellen und D
 Dieses PERL-Programm liest ISBN-10-Nummern ein und konvertiert sie in ihre ISBN-13-Entsprechung. Die eingegebene ISBN-10 wird auf Validität geprüft. Fehlermeldungen werden ausgegeben, wenn die Länge der ISBN-10 ungleich 10 Stellen ist und wenn die Prüfziffer ungültig ist.
 
 # Nutzung
-Laden Sie die Datei isbn.pl herunter und starten Sie mit `./isbn.pl`. Geben Sie dann eine beliebige ISBN-10 ein und bestätigen Sie mit `Enter`. 
+Laden Sie die Datei isbn.pl herunter und machen Sie sie beim erstmaligen Start ausführbar mit `chmod +x isbn.pl`. Starten Sie nun mit `./isbn.pl`. Geben Sie dann eine beliebige ISBN-10 ein und bestätigen Sie mit `Enter`. 
 
 ## Valide ISBN-10 zum Testen 
 3939260150  
